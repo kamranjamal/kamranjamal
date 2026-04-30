@@ -1,40 +1,37 @@
 <h1 align="center">Hi 👋, I'm Kamran Jamal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+Angular;Building+Scalable+Web+Apps;Team+Lead+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Engineer+%26+Team+Lead;MERN+%7C+Next.js+%7C+NestJS;Architecting+Scalable+Systems;Building+AI-Ready+Platforms" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 Professional Summary
 
-💻 Full-Stack Developer with 4+ years of experience  
-⚙️ Specialized in MERN, Next.js, Angular & NestJS  
-🧠 Focused on scalable architecture, clean code & performance  
-👨‍💼 Experienced in leading teams & delivering production systems  
+🚀 Full Stack Engineering Lead with 4+ years of experience designing scalable, distributed systems and microservices.
+
+⚙️ Specialized in MERN, Next.js, and NestJS ecosystems with a strong focus on:
+- System architecture
+- High-performance applications
+- CI/CD & DevOps pipelines
+- Team leadership & engineering standards
 
 ---
 
-## 🎨 Tech Stack
+## 🎨 Tech Arsenal
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,angular,react,nextjs,nodejs,express,nestjs,mongodb,docker,github" />
-
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,react,nextjs,nodejs,express,nestjs,mongodb,docker,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kamranjamal&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamranjamal&theme=tokyonight" />
 </p>
-
----
-
-## 📈 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranjamal&layout=compact&theme=tokyonight" />
@@ -50,85 +47,110 @@
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-### 🏢 Onyx Tech Solution
-**Full Stack Developer (Team Lead)**  
-- Led scalable MERN + NestJS + Next.js applications  
-- Managed Docker, CI/CD pipelines & deployments  
-- Led development team  
-
----
-
-### 🏢 Yak Technologies
-**Full Stack Developer (Technical Team Lead)**  
-- Built full-stack applications & led architecture decisions  
-- Managed team delivery and scalable solutions  
+### 🏢 Onyx Tech Solution  
+**Full Stack Team Lead**
+- Led end-to-end delivery of enterprise-grade applications (MERN, NestJS, Next.js)  
+- Designed CI/CD pipelines & Dockerized environments  
+- Mentored engineers and enforced scalable architecture practices  
 
 ---
 
-### 🏢 Traxim Technologies
-**Full Stack Developer (Onsite)**  
-- Worked with Angular, MERN & Next.js  
-- Delivered end-to-end solutions  
+### 🏢 Yak Technologies  
+**Technical Team Lead (Full Stack)**
+- Directed distributed teams and system architecture  
+- Delivered scalable cloud-based applications  
 
 ---
 
-### 🏢 Arfa Kareem Tech
-**MERN Stack Developer (Remote)**  
-- Built and maintained full-stack apps  
+### 🏢 Traxim Technologies  
+**Full Stack Developer**
+- Built high-performance applications using Angular, React & Next.js  
+- Designed scalable system architectures under tight deadlines  
 
 ---
 
-### 🏢 Tech Continuum
-**Next.js & React Developer (Remote)**  
-- Developed production-level web applications  
+### 🏢 Arfa Kareem Tech  
+**MERN Stack Developer**
+- Developed and optimized full-stack applications  
 
 ---
 
-## 🚀 Featured Projects
+### 🏢 Tech Continuum  
+**Next.js & React Developer**
+- Built modern UI systems and frontend architectures  
 
-### 📚 Digital Book Library
-Full-stack library system with authentication & admin panel  
+---
 
-### 🪙 Tokenization Platform
-Secure token management platform  
+## 🧩 Key Projects & Architectures
 
-### 🛠️ Technician Assignment System
-Task tracking & role-based management system  
+### 🧠 Kalkiva Ecosystem  
+**Lead Backend Engineer (Microservices, TypeScript)**  
+- Architected distributed backend services (API + cron jobs + assistant service)  
+- Designed modular, scalable microservice architecture  
 
-### 🏥 Healthcare System
-Angular + NestJS based management platform  
+---
 
-### 🌐 Threshold Platform
-Full-stack Next.js dynamic system  
+### 🤖 Yak Bot Platform  
+**Backend & Systems Engineer (NestJS, CI/CD)**  
+- Built backend for AI-agent-based social platform  
+- Designed cron jobs, pipelines & deployment workflows  
 
-### ⚽ Sports Management Platform
-React + NestJS complete system  
+---
 
-### 🛒 Super Market Brain
-Inventory & analytics system (Team-led project)  
+### 🏢 Venmor Business Operations  
+**UI / Frontend Lead**  
+- Developed enterprise-grade dashboards & workflows  
+- Focused on UX efficiency & data visualization  
+
+---
+
+### 🛒 Super Market Brain  
+**Full Stack Lead (React + NestJS)**  
+- Built intelligent inventory & analytics system  
+- Designed role-based scalable architecture  
+
+---
+
+### ⚽ Threshold Ecosystem  
+**Platform Architect**  
+- Designed multi-tenant sports platform  
+- Built secure role-based systems & DB architecture  
+
+---
+
+### 🛠️ Technician Assignment System  
+**Full Stack Developer (MERN)**  
+- Built real-time task tracking & admin system  
+- Developed complete end-to-end architecture  
 
 ---
 
 ## 🌱 Currently Exploring
 
-- DevOps & CI/CD Deep Dive  
-- GraphQL  
-- Microservices Architecture  
+- Advanced DevOps & distributed systems  
+- GraphQL ecosystems  
+- AI-integrated backend architectures  
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/kamran-jamal-a0a864378"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge"></a>
-  <a href="mailto:kamrankhanwxr@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge"></a>
-  <a href="https://github.com/kamranjamal"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/kamran-jamal-a0a864378">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge">
+  </a>
+  <a href="mailto:kamrankhanwxr@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge">
+  </a>
+  <a href="https://github.com/kamranjamal">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge">
+  </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Philosophy
 
-I don’t just write code — I architect systems that scale, perform, and actually ship 🚀
+> Great software isn’t just written — it’s architected, scaled, and maintained with intent.
