@@ -127,14 +127,6 @@
 
 ---
 
-## 🌱 Currently Exploring
-
-- Advanced DevOps & distributed systems  
-- GraphQL ecosystems  
-- AI-integrated backend architectures  
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
