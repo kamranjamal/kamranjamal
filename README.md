@@ -127,7 +127,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/kamran-jamal-a0a864378">
