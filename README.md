@@ -8,7 +8,7 @@
 
 ## 🧠 Professional Summary
 
-🚀 Full Stack Engineering Lead with 4+ years of experience designing scalable, distributed systems and microservices.
+🚀 Full Stack Engineering Lead with 5+ years of experience designing scalable, distributed systems and microservices.
 
 ⚙️ Specialized in MERN, Next.js, and NestJS ecosystems with a strong focus on:
 - System architecture
